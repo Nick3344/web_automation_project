@@ -1,7 +1,6 @@
 # Web Automation Project
 
-![Project Logo]([![image](https://github.com/user-attachments/assets/dd52ecc8-8fb7-4565-a3b9-d054f7954d45](https://www.edureka.co/blog/wp-content/uploads/2019/03/Web-Automation-Web-Automation-using-UiPath-Edureka-1.png)](https://www.edureka.co/blog/wp-content/uploads/2019/03/Web-Automation-Web-Automation-using-UiPath-Edureka-1.png))
-) <!-- Replace with your logo URL -->
+![Project Logo](assets/pic.png)
 
 ## 🚀 Overview
 
@@ -20,6 +19,11 @@ This project is a **web automation tool** designed to automate web-based tasks u
 
 - **Python 3.8+**: Ensure Python is installed on your machine.
 - **Microsoft Edge WebDriver**: Download and place the `msedgedriver.exe` in the `drivers` folder.
+
+- ## 🎥 Usage Video 
+
+[![Video Tutorial Thumbnail](assets/pic.png)](assets/video.mp4) 
+
 
 ### Setup
 
