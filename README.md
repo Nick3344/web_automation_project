@@ -1,6 +1,5 @@
 # Web Automation Project
 
-![Project Logo](assets/pic.png)
 
 ## 🚀 Overview
 
@@ -22,14 +21,14 @@ This project is a **web automation tool** designed to automate web-based tasks u
 
 - ## 🎥 Usage Video 
 
-[![Video Tutorial Thumbnail](assets/pic.png)](assets/video.mp4) 
+![Usage GIF](assets/usage.gif)
 
 
 ### Setup
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/web-automation-project.git](https://github.com/Nick3344/web_automation_project
+    git clone https://github.com/Nick3344/web_automation_project
     cd web-automation-project
     ```
 
